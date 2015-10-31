@@ -127,7 +127,10 @@ varspool_websocket:
             applications:
                 - echo
                 - multiplex
-
+                
+            # Class of Wrench websocket Server 
+            class Varspool\WebsocketBundle\Server\Server
+            
             # Origin control
             check_origin: true
             allow_origin: # default: just localhost (not useful!)
