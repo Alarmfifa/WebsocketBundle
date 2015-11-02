@@ -1,7 +1,7 @@
 {
-    "name": "varspool/websocket-bundle",
+    "name": "alarmfifa/websocket-bundle",
     "type": "library",
-    "description": "PHP WebSocket client/server library",
+    "description": "PHP WebSocket client/server library [test-fork]",
     "keywords": ["websocket", "websockets", "hybi"],
     "homepage": "http://github.com/varspool/WebsocketBundle",
     "license": "WTFPL",
@@ -14,7 +14,7 @@
     ],
     "require": {
         "symfony/framework-bundle": "2.*",
-        "kwattro/markdown-bundle": "dev-master",
+        "kwattro/markdown-bundle": "@dev",
         "php": ">=5.3"
     },
     "autoload": {
