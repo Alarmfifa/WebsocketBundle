@@ -29,6 +29,7 @@ requires:
 {
     "require": {
         "varspool/websocket-bundle": "dev-master",
+	"kwattro/markdown-bundle": "dev-master",
         "wrench/wrench": "dev-master"
     }
 }
