@@ -14,7 +14,7 @@
     ],
     "require": {
         "symfony/framework-bundle": "2.*",
-        "kwattro/markdown-bundle": "@dev",
+        "kwattro/markdown-bundle": "dev-master@dev",
         "php": ">=5.3"
     },
     "autoload": {
